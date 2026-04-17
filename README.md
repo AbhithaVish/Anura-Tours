@@ -1,8 +1,7 @@
+# 🌴 Anura Tours – Discover Sri Lanka Like Never Before
 
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/4b294e5c-4d23-4fe9-a9af-6d3d2b0a3665" />
 
-"""# 🌴 Anura Tours – Discover Sri Lanka Like Never Before
-
-![Anura Tours Banner](https://images.unsplash.com/photo-1586019797516-9bbf41e4d9e5?w=1200)
 
 A modern, responsive travel website designed to showcase Sri Lanka’s beauty through curated tour packages, immersive galleries, and seamless user experience.
 
@@ -53,7 +52,7 @@ git clone https://github.com/AbhithaVish/Anura-Tours.git
 
 ---
 
-## 🌐 Live Preview (Optional)
+## 🌐 Live Preview
 
 https://abhithavish.github.io/Anura-Tours/
 
