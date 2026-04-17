@@ -1,6 +1,6 @@
-# Create a README.md file with the generated content
 
-content = """# 🌴 Anura Tours – Discover Sri Lanka Like Never Before
+
+"""# 🌴 Anura Tours – Discover Sri Lanka Like Never Before
 
 ![Anura Tours Banner](https://images.unsplash.com/photo-1586019797516-9bbf41e4d9e5?w=1200)
 
