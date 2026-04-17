@@ -55,7 +55,7 @@ git clone https://github.com/AbhithaVish/Anura-Tours.git
 
 ## 🌐 Live Preview (Optional)
 
-[https://abhithavish.github.io/Anura-Tours/]
+https://abhithavish.github.io/Anura-Tours/
 
 ---
 
